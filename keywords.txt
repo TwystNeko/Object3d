@@ -1,0 +1,23 @@
+Object3d	KEYWORD1
+Matrix3d	KEYWORD1
+Point3d	KEYWORD1
+MatrixReset	KEYWORD2
+MatrixIdentity	KEYWORD2
+MatrixCopy	KEYWORD2
+MatrixMult	KEYWORD2
+mesh	KEYWORD2
+depthMap	KEYWORD2
+init KEYWORD2
+Translate	KEYWORD2
+Rotate	KEYWORD2
+Scale	KEYWORD2
+ChangeLocalObject	KEYWORD2
+ChangeObjectPoint	KEYWORD2
+getNormal	KEYWORD2
+Normalize	KEYWORD2
+Render	KEYWORD2
+sortDepthMap	KEYWORD2
+ApplyTransforms	KEYWORD2
+loadMesh	KEYWORD2
+
+
