@@ -1,0 +1,24 @@
+{
+    "name": "Object3d",
+    "description": "Object3d is a library for transforming 3D objects",
+    "keywords": "math,3d",
+    "authors": [
+        {
+            "name": "Noel Bundy",
+            "url": "https://github.com/TwystNeko",
+            "maintainer": true
+        },
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TwystNeko/Object3d.git"
+    },
+    "version": "1",
+    "license": "MIT",
+    "homepage": "https://github.com/TwystNeko/Object3d",
+    "frameworks": "arduino",
+    "platforms": "atmelavr,atmelsam,freescalekinetis,nordicnrf51,nxplpc,ststm32,teensy",
+    "examples": [
+        "examples/*/*.ino",
+    ]
+}
